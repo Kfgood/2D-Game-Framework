@@ -42,7 +42,6 @@ public class Launch {
 	
 	private static GameManager gm;
 	
-	
 	//Graphics
 	private static GraphicsEnvironment ge;
 	private static GraphicsDevice gd;
