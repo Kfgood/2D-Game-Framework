@@ -14,6 +14,7 @@ import kenneth.game.logic.GameManager;
 import kenneth.game.logic.player.Controls;
 
 /*Current game ideas:
+ * Potential uses of the framework:
  * 
  * Random gen Survival - too simple and bland
  * Randomly gen RPG
@@ -25,7 +26,6 @@ import kenneth.game.logic.player.Controls;
 	* could do randomly generated dungeons/towns, but would need unique story to explain
 		why something is different everytime you go to it and quality control
  * Civilization like game
- * 
  * 
  * Could also simply just create that background framework for the creation of multiple different games of the above genres
  * */
